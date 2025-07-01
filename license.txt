@@ -1,0 +1,8 @@
+Model Information:
+* title:	Subway Surfers
+* source:	https://sketchfab.com/3d-models/subway-surfers-baed87144cab479d91f851eadf678c96
+* author:	Capy Studio's (https://sketchfab.com/Capy_Studios)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
